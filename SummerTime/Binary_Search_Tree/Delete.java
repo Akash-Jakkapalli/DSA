@@ -48,6 +48,7 @@ public class Delete{
             // Case-3 :- Both children
             
         }
+        return root;
     }
 
     public static void main(String[] args) {

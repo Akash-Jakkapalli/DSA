@@ -59,7 +59,7 @@ public class Search_BST {
         Node root = null;
 
         // searching a key
-        if (search(root, 1)) {
+        if (search(root, 2)) {
             System.out.println("Found");
         }else{
             System.out.println("Not - Found");
