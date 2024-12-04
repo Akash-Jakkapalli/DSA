@@ -1,3 +1,6 @@
+
+// all in one
+
 package Sorting;
 import java.util.*;
 public class Sort {
